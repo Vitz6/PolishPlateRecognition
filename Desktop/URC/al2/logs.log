@@ -1,0 +1,8 @@
+INFO:root:2017-08-16 19:39:49.439358: MainAutoControll ctor started
+ERROR:root:2017-08-16 19:39:49.439358: Unknown error during autoRover starting: name 'GpsPathFinder' is not defined
+INFO:root:2017-08-30 20:24:13.979067: MainAutoControll ctor started
+INFO:root:2017-08-30 20:24:20.916861: MainAutoControll ctor started
+INFO:root:2017-08-30 21:04:08.700413: MainAutoControll ctor started
+INFO:root:2017-08-30 22:27:48.197980: MainAutoControll ctor started
+INFO:root:2017-09-06 18:59:20.559786: MainAutoControll ctor started
+INFO:root:2017-09-06 19:00:51.492847: MainAutoControll ctor started
